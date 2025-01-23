@@ -1,0 +1,7 @@
+{
+    "authorization": {
+        "title": "Auth",
+        "login": "Login",
+        "reset_password": "Reset password"
+    }
+}

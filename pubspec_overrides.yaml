@@ -1,0 +1,8 @@
+# melos_managed_dependency_overrides: authorization,core,profile
+dependency_overrides:
+  authorization:
+    path: packages/authorization
+  core:
+    path: packages/core
+  profile:
+    path: packages/profile

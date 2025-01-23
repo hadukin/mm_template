@@ -1,0 +1,7 @@
+{
+    "authorization": {
+        "title": "Логин",
+        "login": "Войти",
+        "reset_password": "Восстановить пароль"
+    }
+}
