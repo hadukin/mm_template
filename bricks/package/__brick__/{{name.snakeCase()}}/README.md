@@ -1,0 +1,2 @@
+# Пакет {{name}}
+{{description}}

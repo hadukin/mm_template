@@ -1,0 +1,7 @@
+bricks:
+  bloc:
+    path: bricks/bloc
+  package:
+    path: bricks/package
+  feature:
+    path: bricks/feature

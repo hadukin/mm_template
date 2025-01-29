@@ -1,0 +1,19 @@
+name: package
+description: Создание нового пакета
+
+version: 0.1.0+1
+
+environment:
+  mason: ^0.1.0
+
+vars:
+  name:
+    type: string
+    description: Название модуля
+    default: module
+    prompt: Введи название нового модуля
+  description:
+    type: string
+    description: Описание модуля
+    default: Описание
+    prompt: Введите описание проекта
